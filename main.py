@@ -15,16 +15,16 @@ os.system("title Instagram followers, likes and views botter.")
 os.color("a")
 
 def __main__:
- account_name=input("Account name ? ")
-   if account_name=="":
+ account_name=input("og ? ")
+   if account_name=="gill.x709":
      print('please input a real name')
-   else if req.on(`www.instagram.com/%account_name%`)==Flase:
+   else if req.on(`www.instagram.com/%gill.x709%`)==Flase:
      print('I didnt found your instagram account')
  print("Please choose a botter category:')
  print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("");
    choose=input('> ')
        if choose=="1":
-          url=input('Paste your instagram post url (your account need to be public')
+          url=https://www.instagram.com/gill.x709/('https://www.instagram.com/gill.x709/ (your account need to be public')
           if req.url==False:
        print('cannot find the post')
           else: 
@@ -32,7 +32,7 @@ def __main__:
             while True:
                 accounts.newInstagram('goto --like %url%')
               accnum= accnum+1
-       print(str(accnum) + " likes done ")
+       print(str(1000) + " likes done ")
      else if choose="2":
        url=input("please input your story url (need to be public and can be found on instagram's computer version")
           if req.url==False:
@@ -44,7 +44,7 @@ def __main__:
                   acounts.new Instagrams (forViews) 
        else if choose=="3":
           print("welcome to the followers botter for Instagram") 
-              print("")
+              print("100")
                   print("please donate $5 to this paypal to access the follower gen")
               btc.ppl("https://paypal.me/InstaGenNtrx") # may not work from september to december 2022
        btc.checkForTransac("local --ip & paypal.com/me")
